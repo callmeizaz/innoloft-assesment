@@ -1,8 +1,6 @@
 # innoloft-assesment
 
-#### Example:
-
-This project is assesment. Users can filter see products and edit it.
+This project is an assesment. Users can filter see products and edit it.
 
 ## Installation and Setup Instructions
 
